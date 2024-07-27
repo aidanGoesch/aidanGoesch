@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on implementing a checkers engine that uses Monte Carlo Tree Search. I am also participating in work for the Computational Cognitive Neuroscience Lab at UCI that involves matching reinforcement learning models to human decision-making.<br>🤝 I’m looking for help with finding larger-scale projects that can help people.<br>🌱 I’m currently learning machine learning principles, specifically reinforcement learning techniques.<br>⚡ Fun fact: I am fluent in German.<br>😄 Pronouns: He/Him
+🔭 I'm currently working on implementing a checkers engine that uses Monte Carlo Tree Search. I am also a Research Assistant at the Computational Cognitive Neuroscience Lab at UCI that involves matching reinforcement learning models to human decision-making.<br>🤝 I’m looking for help with finding larger-scale projects that can help people.<br>🌱 I’m currently learning machine learning principles, specifically reinforcement learning techniques.<br>⚡ Fun fact: I am fluent in German.<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials:
